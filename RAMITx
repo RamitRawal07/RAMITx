@@ -1,5 +1,5 @@
 # Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
+# https://github.com/RamitRawal07
 # Time : Fri Apr 14 16:20:37 2023
 # -------------------------------
 _ = lambda __ : __import__('marshal').
